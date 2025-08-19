@@ -5,7 +5,6 @@ const COUPLE = {
   you: "Rafiou",
   partner: "Djenabou",
   startDate: new Date("2025-05-15"),
-  city: "Paris, France",
   hashtag: "#PourToujours",
 };
 
@@ -685,7 +684,7 @@ export default function InteractiveLoveSite() {
       {/* Footer */}
       <footer className="text-center py-8 bg-black/20 backdrop-blur-md">
         <p className="text-lg">
-          Créé avec <Heart className="w-5 h-5 inline text-red-400 animate-pulse" /> pour notre amour éternel
+          Créé avec <Heart className="w-5 h-5 inline text-red-400 animate-pulse" /> pour Djenabou
         </p>
         <p className="text-purple-200 mt-2">Rafiou & Djenabou - {COUPLE.hashtag}</p>
       </footer>
