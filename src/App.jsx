@@ -4,16 +4,14 @@ import { Heart, Calendar, Music2, Camera, Gamepad2, Trophy, Target, MessageCircl
 const COUPLE = {
   you: "Rafiou",
   partner: "Djenabou",
-  startDate: new Date("2022-06-18"),
+  startDate: new Date("2025-05-15"),
   city: "Paris, France",
   hashtag: "#PourToujours",
 };
 
 const TIMELINE = [
-  { date: "18 juin 2022", title: "On s'est rencontrés", desc: "Un regard, un sourire, et tout a commencé.", emoji: "✨" },
-  { date: "02 juillet 2022", title: "Premier rendez-vous", desc: "Des fous rires et une glace à la fraise.", emoji: "🍦" },
-  { date: "14 février 2023", title: "Premier voyage", desc: "Un lever de soleil inoubliable.", emoji: "🌅" },
-  { date: "25 décembre 2024", title: "Notre nid", desc: "On emménage ensemble, enfin !", emoji: "🏠" },
+  { date: "15 Mai 2025", title: "Premier Message", desc: "Un message, une reponse, et tout a commencé.", emoji: "✨" },
+  { date: "20 juillet 2025", title: "Premier <<Je T'aime>>", desc: "Première fois qu'on s'ait dit s'aime", emoji: "💕" },
 ];
 
 const LOVE_MESSAGES = [
